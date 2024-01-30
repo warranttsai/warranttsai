@@ -10,7 +10,7 @@
 ## Contact Me
 - Email: warrant1997@gmail.com
 - Mobile: 0450601208
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/warrant-tsai-20463414)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/warrant-tsai-20463414b/)
 
 ## Additional Information
 - Pronouns: He/Him
